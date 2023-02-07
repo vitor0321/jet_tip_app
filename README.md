@@ -17,4 +17,4 @@ Usando Jetpack Compose:
 * InputField
 
 
-![](../../../Downloads/app_trip.jpeg)
+![app_trip](https://user-images.githubusercontent.com/60984009/217388173-f1c88bff-506e-4bfc-96ea-b66fb67b3759.jpeg)
